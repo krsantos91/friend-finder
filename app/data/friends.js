@@ -1,0 +1,87 @@
+var friends = [
+    {
+        "name":"Ahmed",
+        "photo":"http://images.hastedkraeutler.com/www_hastedkraeutler_com/ms_kobe_bryant_09_hr0.jpg",
+        "scores":[
+            5,
+            1,
+            4,
+            4,
+            5,
+            1,
+            2,
+            5,
+            4,
+            1
+          ]
+    },
+    {
+        "name":"Chris",
+        "photo":"http://streetz945.com/s/wp-content/uploads/2016/12/kobe-bryant-basketball-headshot-photo-600x600.jpg",
+        "scores":[
+            3,
+            2,
+            5,
+            4,
+            1,
+            2,
+            4,
+            5,
+            3,
+            1
+        
+          ]
+    },
+    {
+        "name":"Brendan",
+        "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        "scores":[
+            2,
+            1,
+            5,
+            5,
+            5,
+            5,
+            5,
+            4,
+            5,
+            3
+          ]
+    },
+    {
+        "name":"Mike",
+        "photo":"http://tsnimages.tsn.ca/ImageProvider/PlayerHeadshot?seoId=kobe-bryant&width=620&height=620",
+        "scores":[
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5
+          ]
+    },    
+    {
+        "name":"Ken",
+        "photo":"http://a5.res.cloudinary.com/allamerican/image/fetch/t_face_s270/https://speakerdata2.s3.amazonaws.com/photo/image/876086/entertainment-MOTY-2009-12-kobe-bryant-slideshow-kobe-bryant-05.jpg",
+        "scores":[
+            5,
+            3,
+            5,
+            3,
+            5,
+            3,
+            5,
+            3,
+            5,
+            3
+          ]
+    }
+]
+
+module.exports = friends;
+
+
